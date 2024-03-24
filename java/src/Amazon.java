@@ -1,16 +1,3 @@
-/*
- * Template JAVA User Interface
- * =============================
- *
- * Database Management Systems
- * Department of Computer Science &amp; Engineering
- * University of California - Riverside
- *
- * Target DBMS: 'Postgres'
- *
- */
-
-
 import java.sql.DriverManager;
 import java.sql.Connection;
 import java.sql.Statement;
