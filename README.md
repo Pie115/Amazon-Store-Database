@@ -34,7 +34,49 @@ Orders
 
 • Put Supply Request: Managers could request additional supplies for any product in their stores by specifying details like storeID, productName, units needed, and the supplying warehouseID. Assumptions were made that warehouses could fulfill these requests, with appropriate updates made to the Product and ProductRequests tables.
 
-
 ## Screenshots of Example Usage 
 
-### Creating New User
+### Creating User 
+<img width="1065" alt="ER Diagram" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/347a70e4-3476-46b8-9574-e4746b193386">
+
+### Logging in as Customer 
+<img width="1065" alt="Login" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/2f70301a-557f-461b-8911-3df0e8ba376a">
+
+### View Stores 
+<img width="1065" alt="View Stores" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/2a778b74-2534-47ee-966c-8a7a9563327c">
+
+### View Products 
+<img width="1065" alt="View Products" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/c0117ce0-c3b1-422f-b215-d92369c3778c">
+
+### Placing Order 
+<img width="1065" alt="Place Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/c60e502e-39b1-4651-b47f-7673d9c4749d">
+
+### View Recent Orders 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/7cc1aac0-a4bd-4093-9631-ff53badf0801">
+
+### Logging Out and Logging in as Manager 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/2be4a038-0779-4f09-9fc2-9c962861d133"> 
+
+### View Recent Orders as Manager 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/01f9327f-767b-4d5e-a91b-8addddbe3e8c"> 
+
+### Update Product as Manager 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/c7229b34-f9e8-43a2-82d7-72542fb96635"> 
+
+### View Recent Product Updates 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/dc959c33-1b85-4d77-ae6c-8295bcdf969c"> 
+
+### View Popular Products 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/6603b714-d640-4f9d-afde-8e60ffaa9717"> 
+
+### Place Supply Request 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/e6ebb211-b229-4e8a-9462-a32603093106"> 
+
+### Logging in as Admin 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/414fc17b-7fac-41c5-8790-44a6d84bffd2"> 
+
+### Admin Options 
+<img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/5e693371-e55e-43ec-a822-aebe1a838e1b"> 
+
+
+
