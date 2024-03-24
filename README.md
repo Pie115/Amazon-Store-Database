@@ -78,5 +78,6 @@ Orders
 ### Admin Options 
 <img width="1065" alt="View Recent Orders" src="https://github.com/Pie115/Amazon-Store-Database/assets/6378028/5e693371-e55e-43ec-a822-aebe1a838e1b"> 
 
-
+## Command Line Checking
+In all of these fields and options, I've implemented command line checkers to make sure if the User is inputting the correct information and to also give readeble error messages that anyone is able to understand. For example if a User orders something with low stock, or if someone tries to access a managers options, these are thrown as specific errors.
 
